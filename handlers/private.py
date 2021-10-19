@@ -26,7 +26,7 @@ async def start(_, message: Message):
                     )
                 ],[ 
                     InlineKeyboardButton(
-                        "❰𝗦𝗼𝘂𝗿𝗰𝗲❱", url="https://t.me/natttuu"
+                        "❰Commands❱", url="https://telegra.ph/NatKing-Music-Bot-Command-10-19"
                     )]
             ]
         ),
