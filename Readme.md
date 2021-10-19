@@ -1,6 +1,6 @@
 <p align="center"><a href="https://t.me/Natking_support"><img src="https://github.com/HEXOROP/eSportMusicX/raw/main/etc/Hexor.png"></a></p>
 <p align="center">
-    <br><b>eSport MusicX is a telegram bot project that's allow you to play music on telegram voice chat group</b><br>
+    <br><b>Natking music is a telegram bot project that's allow you to play music on telegram voice chat group</b><br>
 </p>
 <p align="center">
     <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-black.svg?style=flat-square&logo=python&logoColor=blue&color=red" /></a>
