@@ -1,4 +1,4 @@
-<p align="center"><a href="https://t.me/eSport_BOTs"><img src="https://github.com/HEXOROP/eSportMusicX/raw/main/etc/Hexor.png"></a></p>
+<p align="center"><a href="https://t.me/Natking_support"><img src="https://github.com/HEXOROP/eSportMusicX/raw/main/etc/Hexor.png"></a></p>
 <p align="center">
     <br><b>eSport MusicX is a telegram bot project that's allow you to play music on telegram voice chat group</b><br>
 </p>
@@ -52,7 +52,7 @@
 ## Heroku Deployment 💜
 The easy way to host this bot, deploy to Heroku, Change the app country to Europe (it will help to make the bot stable).
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/HEXOROP/eSportMusicX)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/nat-king-151/eSportMusicX)
 
 ## ᴅᴇᴘʟᴏʏ ᴏɴ ᴠᴘꜱ ꜱᴇʀᴠᴇʀ 📡
 
@@ -63,7 +63,7 @@ pip3 install -U pip
 curl -sL https://deb.nodesource.com/setup_16.x | bash -
 sudo apt-get install -y nodejs
 npm i -g npm
-git clone https://github.com/HEXOROP/eSportMusicX # Clone your repo.
+git clone https://github.com/nat-king-151/eSportMusicX # Clone your repo.
 cd VeezMusic
 pip3 install -U -r requirements.txt
 cp example.env .env #Use vim to edit ENVs
