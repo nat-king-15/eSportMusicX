@@ -25,7 +25,7 @@
 
 ### 🎖 History
 
-[![Mentioned in Awesome Python](https://awesome.re/mentioned-badge.svg)](https://github.com/HEXOROP/eSportMusicX)
+[![Mentioned in Awesome Python](https://awesome.re/mentioned-badge.svg)](https://github.com/nat-king-15/eSportMusicX)
 
 ## Features 🔮
 
@@ -73,9 +73,9 @@ python3 main.py # Run the bot
 ```
 
 ### Special Credits 💖
-- [Hexor'xD](https://github.com/HEXOROP): Dev
-- [eSport Music Bot](https://t.me/eSport_BOTs) Our Music Bot
+- [Hexor'xD](https://github.com/nat-king-15): Dev
+- [eSport Music Bot](https://t.me/Natking_support) Our Music Bot
 - [RojSerBest](https://github.com/rojserbest) CallsMusic Developer
 
 ### Support & Updates 🎑
-<a href="https://t.me/EsportClan"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/eSport_BOTs"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/Natking_channel"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/Natking_support"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
