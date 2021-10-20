@@ -73,8 +73,8 @@ python3 main.py # Run the bot
 ```
 
 ### Special Credits 💖
-- [Hexor'xD](https://github.com/nat-king-15): Dev
-- [eSport Music Bot](https://t.me/Natking_support) Our Music Bot
+- [Natking](https://github.com/nat-king-15): Dev
+- [Natking support](https://t.me/Natking_support) Our Music Bot
 - [RojSerBest](https://github.com/rojserbest) CallsMusic Developer
 
 ### Support & Updates 🎑
